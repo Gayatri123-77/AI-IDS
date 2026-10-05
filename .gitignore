@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python cache
+.pytest_cache/
+
+# Large datasets
+data/*.csv
+data/*.zip
+
+# Model files
+models/*.pkl
+models/*.joblib
+
+# Secrets
+.env
+
+# Logs
+*.log
+
+# Database
+*.db
