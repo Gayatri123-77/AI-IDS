@@ -46,7 +46,7 @@ AI-IDS/
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/Gayatri123-77/AI-IDS
+git clone https://github.com/Gayatri123-77/AI-IDS.git
 cd AI-IDS
 python -m venv venv
 pip install -r requirements.txt
